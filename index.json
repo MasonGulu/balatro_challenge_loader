@@ -1,0 +1,16 @@
+[
+  {
+    "url": "",
+    "id": "challenge_loader",
+    "name": "Challenge Loader",
+    "description": [
+      "A mod to load custom challenges from files in challenges/"
+    ],
+    "version": "0.0.1",
+    "load_before": [],
+    "load_after": [],
+    "authors": [
+      "ShreksHellraiser"
+    ]
+  }
+]
